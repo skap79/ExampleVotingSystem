@@ -1,0 +1,25 @@
+
+=========================== Help Information ===========================
+
+Introduction to Voting System.
+
+This system was created to choose five representatives from different departments
+of this company to the Board of Directors through a voting system. This vote has 
+to be cast by the staff in seven days.
+
+Staff members
+
+- A staff member has to vote by entering the letter "v" for voting.
+- For this, a staff ID and password will be required. If one or both of them are
+unknown, please call the technical support.
+- Once in the system, the code of the preferred candidate has to be entered.
+The system will ask to confirm the chosen option by writing the word "y" for yes. 
+- Important:  A voter can vote only once which it will be not modified later.
+
+Administration members
+
+- Enter the letter "a" to log in to the administration area.
+- For this, an Administrator's ID and password will be required.
+- Once in the system, an administrator's menu will be displayed for managing
+staff members, candidates, administrator's accounts and voting dates.
+ 
